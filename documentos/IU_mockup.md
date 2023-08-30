@@ -23,5 +23,5 @@ Las principales funcionalidades de Game News son:
  
 5)	Vista Imagen seleccionada: Por último, en esta interfaz el usuario podra visualizar la imagen mas ampliada y tendra 3 botones los cuales tendran la funcionalidad de compartir, descargar y añadir a favoritos.  
 
- [![Pantalla-6.png](https://i.postimg.cc/L8tMxyxW/Pantalla-6.png)](https://postimg.cc/75Zc6N81)
+ [![Pantalla-7-1.png](https://i.postimg.cc/fbHWv2LN/Pantalla-7-1.png)](https://postimg.cc/WDkPN7gW)
  
